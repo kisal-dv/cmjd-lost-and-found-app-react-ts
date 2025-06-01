@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# cmjd-lost-and-found-app-react-ts
+Lost and Found Application for Educational Institute using React + TypeScript — SPA with JWT Authentication, Role-based Access, and Full CRUD functionality.
+>>>>>>> 6a0fe9ab652799adf5e460d8a89f1fb01c1a9ced
